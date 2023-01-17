@@ -1,22 +1,25 @@
+> **Note**
+> Este repositorio no contiene el código, ya que ya no tengo los derechos sobre él. Solo estoy mostrando su funcionalidad con fines de presentación, con el debido permiso del cliente.
+
 # SISTEMA DE GESTIÓN FINANCIERA
-Diseño, desarrollo e implementación de un software custom para la entidad financiera COOPACSEMUSU.
+Diseñé, desarrollé e implementé un software custom para la entidad financiera COOPACSEMUSU.
 
 ![image](https://user-images.githubusercontent.com/45906349/212786107-d0c9ceee-ed1c-4ec0-9bff-7b79f6bfcce0.png)
 
-## Tecnologías 
+## Tecnologías  
 Microsoft SQL Server, .NET Framework y C# 
 
 ## Desafio
-Automatizar los procesos alusivos a la gestión financiera de una cooperativa como: generar reportes, recibos/factura, mantener prestamos, fondos de reservas, seguimiento de los ahorros, fondos comunes y demás. 
+Automatizar los procesos alusivos a la gestión financiera de una cooperativa como: generar reportes, recibos/factura, mantener préstamos, fondos de reservas, seguimiento de los ahorros, fondos comunes y demás. 
 
-Las operaciones se agruparon de la siguiente manera:
+Despues de estudiar los requerimientos y necesidades de la organización, los agrupé bajo el siguiente esquema:
 
 * Home (Dashboard + Top Socios + Suggest Actions panel)
 * Socios
   * Perfil individual de cada socio (Dashboard)
   * Listado de todos los socios (CRUD)
   * Visualizar recibos (Report Viewer custom)
-  * Gestionar préstamos (Método Francés de interes Decreciente)
+  * Gestión de préstamos (Método Francés de interes Decreciente)
 * Ahorros y retiros (CRUD)
 * Entradas y salidas del banco (CRUD + Balance Column + Summary Report)
 * Cheques (CRUD + Summary Report + Micro DashBoard)
@@ -32,7 +35,7 @@ Las operaciones se agruparon de la siguiente manera:
   * Negocios diferentes
 
 ## Resultados
-Aumento de la productividad en al menos un 300%
+Una vez implementé el sitema, aumentó la productividad un 300% con respecto a la metodología anterior
 
 ## Screenshoots
 
