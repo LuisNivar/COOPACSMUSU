@@ -1,4 +1,4 @@
-# DESCRIPCION
+# SISTEMA DE GESTIÓN FINANCIERA
 Diseño, desarrollo e implementación de un software custom para la entidad financiera COOPACSEMUSU.
 
 ## Tecnologías 
